@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+# hello-world
+
+Greetings Humans - this is mike olean and I am trying to learn how to leverage GitHub. 
+
+Thanks,
+Mike
+
 
 You can use the [editor on GitHub](https://github.com/mjolean/MJO_testdrive/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
